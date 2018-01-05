@@ -1,2 +1,2 @@
 It is the project of splitscreenslider.
-I have html,css,javascript.
+I have used html,css,javascript.
